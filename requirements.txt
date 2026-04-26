@@ -1,5 +1,3 @@
 Flask
 gunicorn
-deepface
-opencv-python-headless
-numpy
+
